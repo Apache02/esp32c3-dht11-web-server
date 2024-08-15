@@ -13,7 +13,7 @@
 
 
 #define DEFAULT_LED_PIN         GPIO_NUM_8
-#define DHT11_PIN               GPIO_NUM_10 // ESP32 pin GPIO21 connected to DHT11 sensor
+#define DHT11_PIN               GPIO_NUM_10 // ESP32 pin GPIO10 connected to DHT11 sensor
 
 #define TASK_DEFAULT_PRIORITY   10
 
