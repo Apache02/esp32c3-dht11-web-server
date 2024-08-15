@@ -6,6 +6,11 @@ Requirements:
 * DHT11 sensor
 * nodejs - if you want to edit frontend
 
+Circuit
+
+![Wire connection](docs/esp32c3-dht11.png "Circuit")
+
+
 ## Build
 ```shell
 idf.py set-target esp32c3
