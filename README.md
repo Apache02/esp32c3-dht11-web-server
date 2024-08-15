@@ -17,7 +17,7 @@ idf.py menuconfig
 Configure youre wifi in "Application" section. SSID, Password and auth mode required. Then press S to save config and Q to exit.
 
 ```shell
-idf.py build flash       
+idf.py build flash
 ```
 
 ## Run
